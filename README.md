@@ -5,8 +5,8 @@
 [Slide Deck](https://shaleshk.github.io/OpenWeatherAPI-website/Home.html)
 
 ![Each League's Dominant Team Bar Chart](DomTeamsGoalDiff.png)
-![Scatter Plot against the Dominant Team](DomGame_BoxPlot.png)
-![Scatter Plot in the Next Game](NextGame_BoxPlot.png)
-![BoxPlot of game against Dom Team & After](Dom-Next-Game_BoxPlot.png)
+![Scatter Plot against the Dominant Team](DomGame-ScatterPlot.png)
+![Scatter Plot in the Next Game](NextGame-ScatterPlot.png)
+![BoxPlot of game against Dom Team & After](Dom-Next-Game-BoxPlot.png)
 ![Stacked Bar of W/L/T do in next game](NextGame-Stacked.png)
 ![Multiple Stacked Bar of teams in win % quintiles](MultipleStackedBar.png)
